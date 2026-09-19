@@ -1,3 +1,7 @@
+
+
+<img width="757" height="132" alt="Screenshot 2026-09-19 at 13 31 17" src="https://github.com/user-attachments/assets/d7746d2d-038c-40b1-abdc-35810af99417" />
+
 # 🌈 EasyText
 
 **EasyText** is a powerful text-formatting plugin for Minecraft Paper servers.
